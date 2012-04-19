@@ -52,3 +52,13 @@ UI: Zach Inglis ([@zachinglis](http://twitter.com/zachinglis))
 
 ![Rails One Click](https://raw.github.com/oscardelben/RailsOneClick/master/screenshots/installed.png)
 
+
+
+20120419
+11
+199
+
+
+
+
+
